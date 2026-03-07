@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [[LinkedIn post URL](https://www.linkedin.com/posts/activity-7435710125363064832-rm0c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbq4ikBR906E6Lz4P4f_lp4VgiqtD5Kw4k)]
